@@ -27,3 +27,20 @@ body{
     color: #7E9F19;
     text-decoration: none;
 }
+h1 a:hover{
+    background-color: #7E9F19;
+    color: #FFF;
+}
+.clear{
+    clear: both;
+}
+.place img{
+    border: 1px solid #7E9F19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+.footer{
+    font-size: 12px;
+    text-align: center;
+}
